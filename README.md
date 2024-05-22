@@ -21,9 +21,9 @@ Selain itu, Serial Monitor Arduino IDE memberi pengguna akses mudah ke informasi
 Sistem pemberian pakan ikan otomatis bekerja secara mulus bersama dengan perangkat keras mutakhir dan perangkat lunak yang dirancang dengan baik, sehingga pemilik tidak lagi bertanggung jawab dalam merawat ikannya.
 
 ## Kontributor Proyek
- - YOEL DWI MIRYANO				      2206059534
- - SHARIF FATIH ASAD MASYHUR 		2206063014
- - SIHOMBING GIOVANO GERALDO 	  2206059566
- - MUHAMMAD LUTFI SETIADI	      2206059805
+ - Yoel Dwi Miryano				         2206059534
+ - Sharif Fatih Asad Masyhur 		 2206063014
+ - Sihombing Giovano Geraldo 	  2206059566
+ - Muhammad Lutfi Setiadi	      2206059805
 
 
