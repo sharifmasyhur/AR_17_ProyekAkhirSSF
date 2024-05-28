@@ -46,8 +46,8 @@ Sumber daya yang menjalankan komponen tambahan dan Arduino UNO. Melalui colokan 
 ...
 
 ## Kesimpulan
-...
-
+Proyek AquaFeed telah berhasil diterapkan sebagai sistem penggantian tepung ikan otomatis, memungkinkan pengguna melakukan penggantian tepung dengan cara tersier dengan mudah. Sistem ini secara efektif mengoperasikan motor servo untuk memasak dan memanaskan kembali ikan sesuai durasi yang dipilih pengguna menggunakan tombol tekan. Pengguna dapat dengan mudah memilih durasi makan (2, 3, atau 4 hari), dan sistem akan meresponsnya. Integrasi komponen keras dengan komponen lunak yang tertulis di Majelis berhasil. Setiap komponen bekerja sama secara kohesif untuk memberikan pengalaman pengguna terbaikSecara keseluruhan, proyek AquaFeed telah menunjukkan peningkatan yang signifikan dalam otomatisasi budidaya ikan dan telah memberikan solusi yang efisien, efektif, dan menyenangkan bagi pengguna. Dengan kinerja yang kuat dari seluruh komponen dan integrasi yang kuat antara perangkat keras dan perangkat lunak, proyek ini telah mencapai semua tujuannya.
+  
 ## Kontributor Proyek
 - Yoel Dwi Miryano				      (2206059534)
 - Sharif Fatih Asad Masyhur 		(2206063014)
