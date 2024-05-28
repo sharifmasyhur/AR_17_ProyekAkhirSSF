@@ -42,8 +42,8 @@ Digunakan untuk memilih apakah akan memberi makan selama tiga, lima, atau sepulu
 
 Sumber daya yang menjalankan komponen tambahan dan Arduino UNO. Melalui colokan listrik atau, untuk sumber daya yang lebih andal, pin Vin dan GND, Arduino UNO dapat diberi daya secara eksternal.
 
-## Hasil Akhir
-...
+## Hasil Akhir dan Evaluasi Performa
+Proyek AquaFeed telah berhasil dimulai dan memenuhi kriterianya. Selama pengembangan, ada kesulitan dalam mengimplementasikan interupsi dalam program Majelis. Interupsi perlu digunakan untuk mengelola fenomena asinkron, seperti penekanan tombol dan pembacaan sensor yang efisien. Silakan gunakan file bantuan. Ini memberikan solusi efektif untuk mengurangi kompleksitas dan meningkatkan efisiensi pembangunan. Sistem berfungsi dengan baik, memberikan pengguna pengalaman yang konsisten saat mereka makan ikan secara otomatis. Evaluasi ini menyoroti perlunya fleksibilitas dalam manajemen proyek dan manfaat menggunakan bahasa manajemen proyek yang selaras dengan persyaratan proyek. Hasil dari evaluasi ini menunjukkan pentingnya fleksibilitas dalam pendekatan pengembangan dan manfaat dari penggunaan bahasa pemrograman yang sesuai dengan kebutuhan proyek.
 
 ## Kesimpulan
 Proyek AquaFeed telah berhasil diterapkan sebagai sistem penggantian tepung ikan otomatis, memungkinkan pengguna melakukan penggantian tepung dengan cara tersier dengan mudah. Sistem ini secara efektif mengoperasikan motor servo untuk memasak dan memanaskan kembali ikan sesuai durasi yang dipilih pengguna menggunakan tombol tekan. Pengguna dapat dengan mudah memilih durasi makan (2, 3, atau 4 hari), dan sistem akan meresponsnya. Integrasi komponen keras dengan komponen lunak yang tertulis di Majelis berhasil. Setiap komponen bekerja sama secara kohesif untuk memberikan pengalaman pengguna terbaikSecara keseluruhan, proyek AquaFeed telah menunjukkan peningkatan yang signifikan dalam otomatisasi budidaya ikan dan telah memberikan solusi yang efisien, efektif, dan menyenangkan bagi pengguna. Dengan kinerja yang kuat dari seluruh komponen dan integrasi yang kuat antara perangkat keras dan perangkat lunak, proyek ini telah mencapai semua tujuannya.
