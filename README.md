@@ -55,5 +55,3 @@ Proyek AquaFeed telah berhasil diterapkan sebagai sistem penggantian makan ikan 
 - Sharif Fatih Asad Masyhur 		(2206063014)
 - Sihombing Giovano Geraldo 	  (2206059566)
 - Muhammad Lutfi Setiadi	      (2206059805)
-
-
